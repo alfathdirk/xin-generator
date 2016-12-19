@@ -1,0 +1,3 @@
+#!/usr/local/bin/node
+const argv = require('minimist')(process.argv.slice(2));
+const bin = require ('../index.js')(argv);
