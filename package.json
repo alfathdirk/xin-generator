@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "name": "xin-generator",
+  "version": "0.0.1",
+  "description": "Xin generator ala ala",
+  "main": "index.js",
+  "repository": "https://github.com/alfathdirk/xin-generator",
+  "author": "alfathdirk",
+  "license": "MIT"
+}

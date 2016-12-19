@@ -1,0 +1,9 @@
+# os specific files
+.DS_Store
+
+# development files
+/node_modules
+
+# user specific files
+/*.sublime-*
+
